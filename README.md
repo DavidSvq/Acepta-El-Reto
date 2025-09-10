@@ -37,8 +37,7 @@ Este repositorio forma parte de mi aprendizaje en programación competitiva, y e
 
 ## 🔗 Enlace a la plataforma
 
-👉 [https://aceptaelreto.com/](https://aceptaelreto.com/)
-
+👉 [Pulsa Aquí Para Ver Perfil Usuario](https://aceptaelreto.com/user/profile.php?id=37916)
 ---
 
 ## ✍️ Autor
